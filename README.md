@@ -2,7 +2,7 @@
 This mod makes Niko scream more often when he falls down from air just like in GTA V.
 
 ## Downloads
-[Download now on gtainside (Not available yet)](google.com)
+[Download now on gtainside (Not available yet)](https://www.google.com)
 
 ## How to Contribute
 ⚠ You will need Zolika's ASI scripting base in order to contribute on this mod (It's a private SDK).  
