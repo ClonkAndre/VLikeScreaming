@@ -6,7 +6,7 @@ This mod makes Niko scream more often when he falls down from air just like in G
 Downloads on other sites  
 [Download now on gtainside (Not available yet)](https://www.google.com)  
 [Download now on gtaforums (Not available yet)](https://www.google.com)  
-[Download now on lcpdfr (Not available yet)](https://www.google.com)
+[Download now on lcpdfr](https://www.lcpdfr.com/downloads/gta4mods/scripts/38345-v-like-screaming/)
 
 ## Requirements
 - GTA IV 1040, 1070 or 1080  
