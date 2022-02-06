@@ -9,8 +9,8 @@ Downloads on other sites
 [Download now on lcpdfr (Not available yet)](https://www.google.com)
 
 ## Requirements
-GTA IV 1040, 1070 or 1080  
-ASI Loader
+- GTA IV 1040, 1070 or 1080  
+- ASI Loader
 
 ## How to Contribute
 ⚠ You will need Zolika's ASI scripting base in order to contribute on this mod (It's a private SDK).  
