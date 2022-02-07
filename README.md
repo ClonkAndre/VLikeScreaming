@@ -1,5 +1,5 @@
 # V Like Screaming
-This mod makes Niko scream more often when he falls down from air just like in GTA V.
+This mod makes Niko (Or Luis and Johnny) scream more often when he falls down from air just like in GTA V.
 
 ## Downloads
 [All downloads](https://github.com/ClonkAndre/VLikeScreaming/releases)  
