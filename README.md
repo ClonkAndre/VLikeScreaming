@@ -14,6 +14,7 @@ Downloads on other sites
 - ASI Loader
 
 ## How to Contribute
-⚠ You will need Zolika's ASI scripting base in order to contribute on this mod (It's a private SDK).  
+⚠ This project was built using a private SDK.  
+If you want to contribute on this project, it is recommended to use the Open-Source [IV-SDK](https://github.com/Zolika1351/iv-sdk).  
   
 Do you have an idea to improve this mod, or did you happen to run into a bug? Please share your idea or the bug you found in the [issues](https://github.com/ClonkAndre/VLikeScreaming/issues) page, or even better: feel free to fork and contribute to this project with a [Pull Request](https://github.com/ClonkAndre/VLikeScreaming/pulls).
